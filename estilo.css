@@ -77,20 +77,20 @@ align-items: center;
 	margin-top: -1rem;
 }
 #conocenos{
-	background: green;
+	
 	color: black;
 	width: 200%;
 	height: 300px;
 	margin: 0 0 0 0;
 }
 #directorio{
-	background: yellow;
+	
 }
 #organigrama{
-	background: pink;
+	
 }
 #valores{
-	background: red;
+	
 	margin: 0 0 0 0rem;
 }
 .icon{
@@ -129,7 +129,7 @@ align-items: center;
 .colbtn{
 	background: red;
 	width: 20%
-	text-align: center;
+	
 }
 
 
