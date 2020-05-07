@@ -43,7 +43,16 @@ align-items: center;
 .logo{
 	letter-spacing: 15px;
 	font-size: 1.4em;
+	background: red;
+
 }
+.queso{
+	: 12px 26px;
+	size: 70px;
+
+
+}
+
 .navigation ul{
 	margin: 0;
 	padding: 0;
@@ -111,6 +120,7 @@ align-items: center;
 }
 .icon-facebook{
 	background: blue;
+	
 }
 .icon-whatsapp{
 	background: green;
@@ -132,6 +142,8 @@ align-items: center;
 	width: 20%
 	
 }
+
+
 
 
 
