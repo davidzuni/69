@@ -46,6 +46,12 @@ align-items: center;
 	background: red;
 
 }
+.moto{
+	letter-spacing: 15px;
+	font-size: 1.4em;
+	background: red;
+
+}
 .queso{
 	: 12px 26px;
 	size: 70px;
