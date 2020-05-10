@@ -115,6 +115,10 @@ align-items: center;
 	display: flex;
 	transition: all .4s;
 }
+#imgen{
+	height: 500rem;
+	width: 500px;
+}
 .social-bar{
 	position: fixed;
 	right: 0;
